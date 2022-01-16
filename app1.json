@@ -22,6 +22,12 @@
 
 	},
 	
+	"TapDaq":{
+		"app_id":"xxxxxxxxxxxxxxx",
+		"client_key":"xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"placement_tag":"default"}
+	},
+
 "Config":{
 	"app_version":"1.0",
 	"package_name":"com.devat.guide10"
